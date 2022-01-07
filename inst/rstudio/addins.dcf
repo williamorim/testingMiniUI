@@ -1,0 +1,4 @@
+Name: get passoword
+Description: Collects passoword
+Binding: get_password
+Interactive: true
